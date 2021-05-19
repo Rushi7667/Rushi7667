@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rushi Luagariya
+- 👋 Hi, I’m @Rushi Lunagariya
 - I am a Python Programmer
 - 👀 I’m interested in Python 
 - 🌱 I’m currently learning HTML,CSS,javascript
