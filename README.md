@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rushi Lunagariya
 - 🐍 I am a Python Programmer
 - 👀 I’m interested in Python 
-- 🌱 I’m currently learning HTML,CSS,javascript
+- 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on Python project
 - 📫 How to reach me ...
 -Here is my Linkdin Profile..
