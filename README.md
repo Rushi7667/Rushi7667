@@ -6,7 +6,7 @@
 - 🌐 Curruntly working on creating a new website...
 - 📫 How to reach me ...
 -Here is my Linkedin Profile..
--https://www.linkedin.com/in/rushi-lunagariya-988a98200
+-https://www.linkedin.com/in/rushilunagariya
 -feel free to ask for a python program
 -Cheers:)
 <!-- -
