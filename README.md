@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rushi Lunagariya
 - 🐍 I am a Python Programmer
-- 👀 I’m interested in Python 
+- 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on a Python project
 - 🌐 Curruntly working on creating a new website...
