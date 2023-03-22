@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Rushi Lunagariya
+- 👋 Hi, I’m Rushi Lunagariya
 - 🐍 I am a Python Programmer
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on a Python project
-- 🌐 Curruntly working on creating a new website...
+- 🌐 Curruntly working on a new website Creation...
 - 📫 How to reach me ...
 -Here is my Linkedin Profile..
 -https://www.linkedin.com/in/rushilunagariya
